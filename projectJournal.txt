@@ -1,0 +1,20 @@
+Final Year Project Journal
+Project Title: AI Tag Game
+Author: Matthew Waters
+
+Week 19/10/2020
+	What I am doing this week:
+		I setup the examples for ML-agents in Unity locally to try and get a 
+		better understanding on how the machine learning works in Unity.
+		I also started putting together my proposal and finalising my architectural diagram.
+	What I found tough:
+		This week was just mainly research so there was no challenges.
+
+
+Week 26/10/2020
+	What I am doing this week:
+		This week I will be focusing on finishing my architectural diagram and project propsal.
+		If i get this done I will start looking into test code that comes with the ML-agents plugin.
+	What i found tough:
+		There was no major challenges this week as I was putting together my propsal.
+	
