@@ -1,0 +1,12 @@
+Project Equations
+
+Jump: 
+v = Sqrt(-2 * gravity * height)
+
+got from Newton accelration equation 
+v^2(t) = v0^2 + 2a[s(t) - s0]
+simplified and rearranged to v = sqrt(-2*a*s)
+
+when
+v^2(t) = 0;
+s(t) - s0 changed to -s as the displacement is desired jump height

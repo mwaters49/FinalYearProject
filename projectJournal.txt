@@ -17,4 +17,13 @@ Week 26/10/2020
 		If i get this done I will start looking into test code that comes with the ML-agents plugin.
 	What i found tough:
 		There was no major challenges this week as I was putting together my propsal.
+		
+Week 9/11/2020 and Week 16/11/2020
+	What I did: 
+		Finished my basic movement of a character with simple code to aid easier AI learning.
+	What I am working on:
+		I am now working on the tag funciontality where the character touches off another character
+		it counts as a tag instead of a user input to count as a tag.
+		
+	
 	
