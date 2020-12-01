@@ -25,5 +25,13 @@ Week 9/11/2020 and Week 16/11/2020
 		I am now working on the tag funciontality where the character touches off another character
 		it counts as a tag instead of a user input to count as a tag.
 		
+Week 23/11/2020
+	What I did:
+		Finished up the tag functionality to where a player touches a specfic player it counts as a tag
+	What I am working on:
+		I am going to lay out a small arena to try and implement AI, but first i will code in that when a character is tagged it will
+			respawn in a random location inside the arean. This will aid in training the AI to tag other players and "go towards" the person
+			it wants to tag.
+		
 	
 	
