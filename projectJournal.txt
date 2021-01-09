@@ -32,6 +32,10 @@ Week 23/11/2020
 		I am going to lay out a small arena to try and implement AI, but first i will code in that when a character is tagged it will
 			respawn in a random location inside the arean. This will aid in training the AI to tag other players and "go towards" the person
 			it wants to tag.
+			
+Week 03/01/2021
+	What I did:
+		Got back up to speed from christmas break
 		
 	
 	
