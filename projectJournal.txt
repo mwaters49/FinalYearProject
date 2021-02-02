@@ -37,5 +37,11 @@ Week 03/01/2021
 	What I did:
 		Got back up to speed from christmas break
 		
+Week 18/01/2021 and Week 25/01/2021
+	What I did:
+		Looking through the Unity AI ML-Agents example code to get more familiar with functions and terminology used.
+	What I am working on:
+		Continue to look through Unity code and see how to relate it to my own project.
+		
 	
 	
