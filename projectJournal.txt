@@ -44,4 +44,11 @@ Week 18/01/2021 and Week 25/01/2021
 		Continue to look through Unity code and see how to relate it to my own project.
 		
 	
-	
+Week 1/2/2021 to 22/2/2021
+	What I did:
+		Fully implemented ML-Agents to my own project and setup its inputs and observations to allow the agent to learn how to play tag.
+		I have given it full movement including, foward,back,left,right and rotations. It is working with rewards to where the agent
+		recieved a positive reward when it tags the player. It recieves a negative reward if the agent touches the arena wall or if it runs for too long.
+	What I am working on:
+		Going through my work to reasearch and understand what is going on in the background with the Neural Network.
+		
