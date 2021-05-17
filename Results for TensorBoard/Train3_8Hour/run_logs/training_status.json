@@ -1,0 +1,88 @@
+{
+    "Player": {
+        "checkpoints": [
+            {
+                "steps": 1999978,
+                "file_path": "results\\Train3_13_05\\Player\\Player-1999978.onnx",
+                "reward": 3.290300004184246,
+                "creation_time": 1620966467.4015934
+            },
+            {
+                "steps": 2000224,
+                "file_path": "results\\Train3_13_05\\Player\\Player-2000224.onnx",
+                "reward": 3.50635998994112,
+                "creation_time": 1620966467.7541084
+            },
+            {
+                "steps": 2000224,
+                "file_path": "results\\Train3_13_05\\Player\\Player-2000224.onnx",
+                "reward": null,
+                "creation_time": 1620994739.9353487
+            },
+            {
+                "steps": 2004711,
+                "file_path": "results\\Train3_13_05\\Player\\Player-2004711.onnx",
+                "reward": null,
+                "creation_time": 1620994975.6550658
+            },
+            {
+                "steps": 2009927,
+                "file_path": "results\\Train3_13_05\\Player\\Player-2009927.onnx",
+                "reward": 4.540500096976757,
+                "creation_time": 1621008059.5327644
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2009927,
+            "file_path": "results\\Train3_13_05\\Player.onnx",
+            "reward": 4.540500096976757,
+            "creation_time": 1621008059.5327644
+        }
+    },
+    "PlayerRunner": {
+        "checkpoints": [
+            {
+                "steps": 1999983,
+                "file_path": "results\\Train3_13_05\\PlayerRunner\\PlayerRunner-1999983.onnx",
+                "reward": -0.9466285518237523,
+                "creation_time": 1620966467.1894615
+            },
+            {
+                "steps": 2000192,
+                "file_path": "results\\Train3_13_05\\PlayerRunner\\PlayerRunner-2000192.onnx",
+                "reward": -0.9845526100773561,
+                "creation_time": 1620966467.9518414
+            },
+            {
+                "steps": 2000192,
+                "file_path": "results\\Train3_13_05\\PlayerRunner\\PlayerRunner-2000192.onnx",
+                "reward": null,
+                "creation_time": 1620994740.118717
+            },
+            {
+                "steps": 2004710,
+                "file_path": "results\\Train3_13_05\\PlayerRunner\\PlayerRunner-2004710.onnx",
+                "reward": 1.0345001518726349,
+                "creation_time": 1620994975.483588
+            },
+            {
+                "steps": 2010082,
+                "file_path": "results\\Train3_13_05\\PlayerRunner\\PlayerRunner-2010082.onnx",
+                "reward": -0.8869130352269048,
+                "creation_time": 1621008059.328051
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2010082,
+            "file_path": "results\\Train3_13_05\\PlayerRunner.onnx",
+            "reward": -0.8869130352269048,
+            "creation_time": 1621008059.328051
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1+cpu",
+        "tensorflow_version": -1
+    }
+}
